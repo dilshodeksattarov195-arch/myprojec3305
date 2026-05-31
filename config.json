@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtersarse",
+        "uuid": 8754945,
+        "checksum": "28e6v8"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
